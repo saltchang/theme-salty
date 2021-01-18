@@ -1,9 +1,18 @@
 # Change Log
 
-All notable changes to the "salty" extension will be documented in this file.
+Just updated the README and the CHANGELOG.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.1.1] - 2020-05-27
 
-## [Unreleased]
+- Fix typo in README.md
+
+## [0.1.0] - 2020-05-27
+
+- Add LICENSE
+- Add preview images
+- Add icon
+- Update README.md
+
+## [0.0.1]
 
 - Initial release
