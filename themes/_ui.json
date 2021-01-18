@@ -1311,9 +1311,7 @@
     },
     {
       "name": "Reset JavaScript string interpolation expression",
-      "scope": [
-        "meta.template.expression"
-      ],
+      "scope": ["meta.template.expression"],
       "settings": {
         "foreground": "#aab1c0"
       }
