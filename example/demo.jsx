@@ -7,7 +7,7 @@ function Func(param) {
   let arr = [{ key: int }];
 
   // Comment
-  arr.forEach(item => {
+  arr.forEach((item) => {
     console.log(String(item.key));
   });
 
@@ -19,6 +19,4 @@ function Func(param) {
   );
 }
 
-
-Func()
-
+Func();

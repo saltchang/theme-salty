@@ -1,40 +1,40 @@
 {
-  "name": "salty",
-  "displayName": "Salty",
-  "description": "Salty color theme",
-  "version": "0.1.1",
-  "publisher": "saltchang",
-  "engines": {
-    "vscode": "^1.45.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "salt",
-    "salty",
-    "theme",
-    "dark",
-    "green",
-    "orange"
-  ],
-  "icon": "icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/saltchang/theme-salty.git"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Salty",
-        "uiTheme": "vs-dark",
-        "path": "./themes/salty.json"
-      },
-      {
-        "label": "Salty-Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/salty_i.json"
-      }
-    ]
-  }
+    "name": "salty",
+    "displayName": "Salty",
+    "description": "Salty color theme",
+    "version": "0.2.0",
+    "publisher": "saltchang",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "salt",
+        "salty",
+        "theme",
+        "dark",
+        "green",
+        "orange"
+    ],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/saltchang/theme-salty.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Salty",
+                "uiTheme": "vs-dark",
+                "path": "./themes/salty.json"
+            },
+            {
+                "label": "Salty-Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/salty_i.json"
+            }
+        ]
+    }
 }

@@ -1,6 +1,8 @@
-# Change Log
+# Changelog
 
-Just updated the README and the CHANGELOG.
+## [0.2.0] - 2021-09-30
+
+- Change some colorset, make colors have higher contrast
 
 ## [0.1.1] - 2020-05-27
 
