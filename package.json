@@ -4,8 +4,12 @@
     "description": "Salty color theme",
     "version": "0.2.0",
     "publisher": "saltchang",
+    "license": "MIT",
     "engines": {
-        "vscode": "^1.45.0"
+        "vscode": "^1.106.0"
+    },
+    "scripts": {
+        "publish:ovsx": ". .env && pnpm dlx ovsx publish -p $OVSX_API_TOKEN"
     },
     "categories": [
         "Themes"
